@@ -14,7 +14,7 @@ class AboutMe:
     country: str = "Buenos Aires"
     fav_color: str = "maybe orange"
     email: str = "matiasezequielyanes@gmail.com"
-    discord: str = "cepiclight"
+    discord: str = ".albondiga."
 
 about_me = AboutMe()
 print(about_me)
